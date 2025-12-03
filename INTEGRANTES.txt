@@ -18,12 +18,12 @@ Usuario GitHub:
 Integrante 4:
 Nombre: Saul Armando Doblado Claros
 No. Cuenta: 1007200000816
-Usuario GitHub:
+Usuario GitHub:sauadobladoc-tech
 
 Integrante 5:
 Nombre: Silvia Naomy Zambrano Alonso
 No. Cuenta: 0210200500884
-Usuario GitHub:
+Usuario GitHub:naomyzambrano
 
 Integrante 6:
 Nombre: Yordis Alexis Martinez Sevilla
